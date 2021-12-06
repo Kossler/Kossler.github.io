@@ -17,6 +17,14 @@ body {
   overflow: hidden;
 }
 
+.pokeBall {
+  width: 15.67vw;
+  z-index: -1;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
 .imagecell {
   width: 15.67vw;
   height: calc(100vh - 50px);
