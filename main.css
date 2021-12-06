@@ -23,6 +23,7 @@ body {
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
+  background: url("https://github.com/Kossler/Kossler.github.io/blob/master/Spinning%20White%20Pokeball%20Icon_VP9.webm?raw=true") no-repeat;
 }
 
 .imagecell {
